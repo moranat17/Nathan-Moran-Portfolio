@@ -23,3 +23,10 @@ Software Development: This folder contains files from CIS 199 - Software Develop
 
 CIS 199 introduced object-oriented concepts such as the use of classes, methods, encapsulation, and inheritance. The course concentrated on using object-oriented programming to solve simple problems involving input and output. Computer lab sessions reinforced programming concepts.
 
+System Development: This folder contains files from CIS 420 - CIS Development Project
+
+CIS 420 is a continuation of CIS 320, this course focused on the detailed design and implementation phases of the system development life cycle, including user acceptance testing, test planning, design reviews, and change procedures. Specifications created in CIS 320 were used to implement, test, and install a working version of an information system. System deployment emphasizes a web-based architecture. A prototyping approach was taken to develop and test the system in an iterative manner.
+
+Systems Analysis and Design: This folder contains files from CIS 320 - Systems Analysis and Design
+
+CIS 320 introduced the fundamentals of object-oriented analysis and design, including experience with a CASE tool. Topics included requirements determination, feasibility analysis, modeling with Unified Modeling Language (UML) and data dictionary construction, data modeling and normalization, user interface requirements specification, and information security procedures. Development of problem and design specifications for an information systems project was required. Developed team skills, written and oral communication skills.
