@@ -19,3 +19,6 @@ CIS 410 explored strategic development of information technology; value chain an
 
 Resumes: This folder contains up-to-date copies of my business resume and technical resume. 
 
+Software Development: This folder contains files from CIS 199 - Software Development I
+
+CIS 199 introduced object-oriented concepts such as the use of classes, methods, encapsulation, and inheritance. The course concentrated on using object-oriented programming to solve simple problems involving input and output. Computer lab sessions reinforced programming concepts.
