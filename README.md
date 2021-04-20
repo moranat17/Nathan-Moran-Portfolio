@@ -2,7 +2,7 @@
 
 ### Data Analytics: This folder contains files from CIS 444 - Data Analytics
 
-CIS 444 introduced big data concepts. In this course correlation and simple regressions were reinforced. Data transformations were then introduced. As well as multiple and logistic regressions, analysis of variance and time series analysis. The course wrapped up with two and three way interactions. 
+* CIS 444 introduced big data concepts. In this course correlation and simple regressions were reinforced. Data transformations were then introduced. As well as multiple and logistic regressions, analysis of variance and time series analysis. The course wrapped up with two and three way interactions. 
 
 ### Database Design: This folder contains files from CIS 310 - Database Design##
 
@@ -10,7 +10,7 @@ CIS 310 provided a solid and practical foundation for the design and implementat
 
 ### Infrastructure Technology: This colder contains files from CIS 350 - Infrastructure Technology
 
-CIS 350 introduced fundamental concepts relating data representation and data formats; computer hardware, architecture, and networks; operating systems; and data communications. It also provided some experience with different operating systems such as UNIX/Linux. Finally it introduced systems concepts as well as client/server and web-based computing and applications.
+* CIS 350 introduced fundamental concepts relating data representation and data formats; computer hardware, architecture, and networks; operating systems; and data communications. It also provided some experience with different operating systems such as UNIX/Linux. Finally it introduced systems concepts as well as client/server and web-based computing and applications.
 
 ### Management of Information Systems: This folder contains files from CIS 410 - Management of Information Systems
 
